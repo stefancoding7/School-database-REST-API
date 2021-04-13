@@ -18,7 +18,7 @@
     <li>SQLite</li>
     <li>Node.Js</li>
 </ol>
-
+Inline `code` has `back-ticks around` it.
 # Usage
 <ol>
     <li><p>Run the npm install command in the terminal to install  the project dependencies.</p></li>
