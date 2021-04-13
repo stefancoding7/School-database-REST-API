@@ -5,23 +5,28 @@
 
 
 # Technologies 
-<ol>
+<ul>
     <li>Express</li>
     <li>Sequelize</li>
     <li>Node.Js</li>
     <li>SQL</li>
-</ol>
+</ul>
 
 # Packages
-<ol>
+<ul>
     <li>bcryptjs</li>
     <li>SQLite</li>
     <li>Node.Js</li>
-</ol>
+</ul>
+
 Inline `code` has `back-ticks around` it.
+
 # Usage
 <ol>
-    <li><p>Run the npm install command in the terminal to install  the project dependencies.</p></li>
+    <li>
+    <p> Run the `npm install` command in the terminal to install  the 
+    project dependencies. </p>
+    </li>
     <li>Run the `npm run seed` command in the terminal. This will create the fsjstd-restapi.db database and seed it with initial data</li>
     <li>Use the `npm start` command in the terminal to launch the application and go to http://localhost:5000/</li>
 </ol>
