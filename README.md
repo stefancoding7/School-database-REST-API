@@ -21,7 +21,7 @@
 
 # Usage
 <ol>
-    <li>Run the  `npm install`  command in the terminal to install  the project dependencies</li>
+    <li>Run the  `npm install`  command in the terminal to install  the project dependencies.</li>
     <li>Run the `npm run seed` command in the terminal. This will create the fsjstd-restapi.db database and seed it with initial data</li>
     <li>Use the `npm start` command in the terminal to launch the application and go to http://localhost:5000/</li>
 </ol>
